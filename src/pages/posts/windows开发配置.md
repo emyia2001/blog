@@ -332,7 +332,7 @@ PS C:\Users\dh176>
 
 打开Git Bash，设置user.name和user.email配置信息：
 
-![|inline](https://i.328888.xyz/2023/03/17/LN4It.png)
+
 
 ```
 git config --global user.name "你的GitHub用户名"
