@@ -322,7 +322,7 @@ PS C:\Users\dh176>
 
 这里我使用的mobaxterm，用户root，密钥文件key.pub
 
-![](https://i.328888.xyz/2023/03/17/LNAGJ.png)
+
 
 ## blog环境配置
 
@@ -348,13 +348,9 @@ ssh-keygen -t rsa -C "你的GitHub注册邮箱"
 直接三个回车即可，默认不需要设置密码  
 在.ssh的文件夹中的id_rsa.pub密钥，将内容全部复制传上自己的github
 
-![](https://i.328888.xyz/2023/03/17/LNDqc.png)
-
-![](https://i.328888.xyz/2023/03/17/LNn2A.png)
-
 在Git Bash中检测GitHub公钥设置是否成功，输入 ssh git@github.com
 
-![](https://i.328888.xyz/2023/03/17/LNt7o.png)
+
 
 ### 安装nodejs
 
